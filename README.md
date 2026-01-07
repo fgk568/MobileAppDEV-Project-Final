@@ -415,20 +415,73 @@ npm run web
 ### 🔐 Giriş & Kayıt
 *Modern ve güvenli kimlik doğrulama ekranları*
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/login.png" alt="Login Screen" width="300"/>
+      <br />
+      <sub><b>Giriş Ekranı</b></sub>
+    </td>
+  </tr>
+</table>
+
 ### 📊 Dashboard
 *Genel bakış ve hızlı erişim paneli*
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/dashboard.png" alt="Dashboard Screen" width="300"/>
+      <br />
+      <sub><b>Ana Ekran</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### 👥 Müvekkil Yönetimi
 *Detaylı müvekkil profilleri ve listeleme*
 
-### ⚖️ Dava Takibi
-*Kapsamlı dava yönetim sistemi*
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/clients-list.png" alt="Clients List" width="300"/>
+      <br />
+      <sub><b>Müvekkil Listesi</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 ### 📅 Takvim & Etkinlikler
 *Akıllı takvim ve hatırlatıcı sistemi*
 
-### 💰 Finansal Yönetim
-*Gelir/Gider takibi ve raporlama*
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/event-detail.png" alt="Event Detail" width="300"/>
+      <br />
+      <sub><b>Etkinlik Detay</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🔔 Bildirimler & Arama
+*Akıllı bildirim sistemi ve gelişmiş arama özellikleri*
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/notifications.png" alt="Notifications Screen" width="300"/>
+      <br />
+      <sub><b>Bildirimler</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/search.png" alt="Search Screen" width="300"/>
+      <br />
+      <sub><b>Gelişmiş Arama</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
